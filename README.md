@@ -1,5 +1,5 @@
 #  Example Code
-This repo contains the sample code for the article - **Mocking vs Patching vs Stubbing**
+This repo contains the sample code for the article - **Pytest Xdist**
 
 # Requirements
 * Python (3.10.6)
